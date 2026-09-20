@@ -1,0 +1,351 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "When Everything Feels Too Much",
+    "scope": "A Little More Room · Eight brief educational readings, with optional everyday practices. These are not diagnosis or treatment.",
+    "visualQuery": "everyday mental wellbeing",
+    "intent": {
+      "subject": "When Everything Feels Too Much",
+      "direction": "Explore a practical psychological perspective with ordinary examples and realistic limits.",
+      "perspective": "Public education; gentle, optional practices without clinical promises.",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "y": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      }
+    },
+    "readings": [
+      {
+        "id": "orb-learn-grounding-p01",
+        "label": "You can begin gently",
+        "text": "Welcome to A Little More Room, from Orbforma. When everything asks for your attention at once, you do not have to solve it all immediately. Today, we explore a small grounding practice.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Welcome to A Little More Room, from Orbforma. When everything asks for your attention at once, you do not have to solve it all immediately. Today, we explore a small grounding practice.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "You can begin gently",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "Introduction to the practice.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-grounding-p02",
+        "label": "Choose one ordinary object",
+        "text": "If you would like, look at one ordinary object nearby. A cup, a leaf, or the edge of a table will do. Notice its color and shape. Your eyes can stay open.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "If you would like, look at one ordinary object nearby. A cup, a leaf, or the edge of a table will do. Notice its color and shape. Your eyes can stay open.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Choose one ordinary object",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-grounding-p03",
+        "label": "Find a comfortable anchor",
+        "text": "You might notice the chair supporting you, or a familiar sound in the room. Choose whatever feels comfortable. If paying attention to your body feels unpleasant, an outside object is enough.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "You might notice the chair supporting you, or a familiar sound in the room. Choose whatever feels comfortable. If paying attention to your body feels unpleasant, an outside object is enough.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Find a comfortable anchor",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-grounding-p04",
+        "label": "Name it without judging",
+        "text": "Perhaps you feel overwhelmed, restless, or tired. A simple description can be enough. You do not need to turn this moment into a judgment about your character or your entire life.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Perhaps you feel overwhelmed, restless, or tired. A simple description can be enough. You do not need to turn this moment into a judgment about your character or your entire life.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Name it without judging",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-grounding-p05",
+        "label": "Let breathing stay natural",
+        "text": "There is no special breathing pattern to get right. Let your breath continue naturally. You can simply notice the light or listen to a sound. Feeling perfectly calm is not the assignment.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "There is no special breathing pattern to get right. Let your breath continue naturally. You can simply notice the light or listen to a sound. Feeling perfectly calm is not the assignment.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Let breathing stay natural",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-grounding-p06",
+        "label": "Return to one practical thing",
+        "text": "Imagine an inbox full of messages. After noticing your surroundings, you might choose one message that needs an answer. Grounding does not clear the inbox; it offers a place to begin.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Imagine an inbox full of messages. After noticing your surroundings, you might choose one message that needs an answer. Grounding does not clear the inbox; it offers a place to begin.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Return to one practical thing",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-grounding-p07",
+        "label": "You are allowed to stop",
+        "text": "If an exercise makes you more uncomfortable, stop. Look around, change position, or speak with someone supportive. Choosing a different approach is useful information, not a failure to do the practice correctly.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "If an exercise makes you more uncomfortable, stop. Look around, change position, or speak with someone supportive. Choosing a different approach is useful information, not a failure to do the practice correctly.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "You are allowed to stop",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-grounding-p08",
+        "label": "Choose your next small step",
+        "text": "Choose one manageable next step, whether that is a break, a small task, or asking for help. This is education, not treatment. Persistent, worsening, or disruptive distress deserves professional support.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Choose one manageable next step, whether that is a break, a small task, or asking for help. This is education, not treatment. Persistent, worsening, or disruptive distress deserves professional support.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Choose your next small step",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "orb-learn-grounding-p01",
+        "to": "orb-learn-grounding-p02",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-grounding-p01",
+        "to": "orb-learn-grounding-p03",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-grounding-p01",
+        "to": "orb-learn-grounding-p04",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-grounding-p01",
+        "to": "orb-learn-grounding-p05",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-grounding-p01",
+        "to": "orb-learn-grounding-p06",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-grounding-p01",
+        "to": "orb-learn-grounding-p07",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-grounding-p01",
+        "to": "orb-learn-grounding-p08",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "Warm ivory readings in the Orbiversity sunset studio."
+    },
+    "courseOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "neighbors": [],
+    "sources": [
+      {
+        "title": "Doing What Matters in Times of Stress",
+        "url": "https://www.who.int/publications-detail-redirect/9789240003927",
+        "publisher": "www.who.int",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "title": "Caring for Your Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "publisher": "www.nimh.nih.gov",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "language": "en",
+  "museum": {
+    "attribution": "anonymous",
+    "category": "Wellbeing",
+    "tags": [
+      "mental health",
+      "ORB Learn"
+    ],
+    "library": [
+      {
+        "title": "Doing What Matters in Times of Stress",
+        "url": "https://www.who.int/publications-detail-redirect/9789240003927",
+        "type": "website"
+      },
+      {
+        "title": "Caring for Your Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "type": "website"
+      }
+    ]
+  },
+  "reaches": []
+}
